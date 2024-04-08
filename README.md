@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Verificação de Números em PHP
 
 Este projeto consiste em um script PHP que realiza diferentes verificações em números informados pelo usuário. As verificações incluem:
@@ -32,3 +33,6 @@ Este projeto consiste em um script PHP que realiza diferentes verificações em 
 - Use commits descritivos, por exemplo: `Adiciona verificação de número redondo`
 - Evite commits muito grandes, prefira commits pequenos e específicos
 
+=======
+# TRABavaliativo
+>>>>>>> 1b6a6b4121b9eb67d203c04c4f131bed8a5a792f
